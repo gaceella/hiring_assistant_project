@@ -163,29 +163,6 @@ The system generates 8 personalized questions per candidate: 3 technical (based 
 
 ---
 
-## Cost
-
-This project uses the **Groq API** which is completely free with generous rate limits.
-
-| Operation | Approximate cost |
-|---|---|
-| Parse 1 CV | ~$0.001 |
-| Rank 10 candidates | ~$0.005 |
-| Generate questions | ~$0.002 |
-| **Full screening of 10 CVs** | **~$0.01 total** |
-
----
-
-## Built By
-
-**Khansa Malik** — 2nd year B.S. Artificial Intelligence student at FAST-NUCES Peshawar
-
-- GitHub: [github.com/gaceella](https://github.com/gaceella)
-- LinkedIn: [linkedin.com/in/gaceella](https://linkedin.com/in/gaceella)
-- Portfolio: [gaceella.github.io](https://gaceella.github.io)
-
----
-
 ## License
 
 MIT License — free to use and modify.
